@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pranesh Prashar , student at KIIT university pursuing B.Tech degree doing major in subject in Information Technology.
+- 👋 Hi, I’m Pranesh Prashar , student at KIIT university pursuing B.Tech degree (2022) doing major in subject in Information Technology.
 - 🌱 I'm very enthusiast about learning new technologies and had an hands on experience in tech likes DevOps and MLOPS and made some projects in it.
-- 📫 Learning new technolgies like --> AR , FLUTTER , CLOUD and skilling up my experinces each and every day by integrating most of technologies with each other
+- 📫 Working as DevOps engineer at Simform
 - 👀 I’m interested in Gaming , resting and chilling while listening to music , and spent quality time with friends and family
 - 
 - 
